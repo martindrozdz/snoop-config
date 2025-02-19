@@ -5,6 +5,7 @@ app:
     artifactId: "libertyDefaultApplication"
     version: "1.0.1"
     type: ear
+  endpoints: public
   instances:
     min: 1
     max: 4
