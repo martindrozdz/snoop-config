@@ -15,6 +15,6 @@
     </basicRegistry>
 
     <applicationManager autoExpand="true" />
-    <application id="libertyDefaultApplication" location="libertyDefaultApplication-1.0.1.ear" name="libertyDefaultApplication" type="ear" />
+    <application id="libertyDefaultApplication" location="libertyDefaultApplication.ear" name="libertyDefaultApplication" type="ear" />
 
 </server>
