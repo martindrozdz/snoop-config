@@ -3,7 +3,7 @@ app:
   maven:
     groupId: "libertyDefaultApplication"
     artifactId: "libertyDefaultApplication"
-    version: "1.0.3"
+    version: "1.0.1"
     type: ear
   endpoints: public
   instances:
